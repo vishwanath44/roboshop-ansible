@@ -81,7 +81,7 @@
                             "description": "",
                             "groups": [
                                 {
-                                    "group_id": "sg-076ec9ad23dab2b28",
+                                    "group_id": "sg-043976682ebbf8cd8",
                                     "group_name": "daws-88s-allow-all"
                                 }
                             ],
@@ -140,7 +140,7 @@
                     "root_device_type": "ebs",
                     "security_groups": [
                         {
-                            "group_id": "sg-076ec9ad23dab2b28",
+                            "group_id": "sg-043976682ebbf8cd8",
                             "group_name": "daws-88s-allow-all"
                         }
                     ],
@@ -210,7 +210,7 @@
                     "purge_tags": true,
                     "region": "us-east-1",
                     "secret_key": null,
-                    "security_group": "sg-076ec9ad23dab2b28",
+                    "security_group": "sg-043976682ebbf8cd8",
                     "security_groups": [],
                     "session_token": null,
                     "state": "present",
@@ -242,7 +242,7 @@
                     {
                         "DeviceIndex": 0,
                         "Groups": [
-                            "sg-076ec9ad23dab2b28"
+                            "sg-043976682ebbf8cd8"
                         ],
                         "SubnetId": "subnet-0e183c806a6e13582"
                     }
@@ -372,7 +372,7 @@
                             "description": "",
                             "groups": [
                                 {
-                                    "group_id": "sg-076ec9ad23dab2b28",
+                                    "group_id": "sg-043976682ebbf8cd8",
                                     "group_name": "daws-88s-allow-all"
                                 }
                             ],
@@ -431,7 +431,7 @@
                     "root_device_type": "ebs",
                     "security_groups": [
                         {
-                            "group_id": "sg-076ec9ad23dab2b28",
+                            "group_id": "sg-043976682ebbf8cd8",
                             "group_name": "daws-88s-allow-all"
                         }
                     ],
@@ -501,7 +501,7 @@
                     "purge_tags": true,
                     "region": "us-east-1",
                     "secret_key": null,
-                    "security_group": "sg-076ec9ad23dab2b28",
+                    "security_group": "sg-043976682ebbf8cd8",
                     "security_groups": [],
                     "session_token": null,
                     "state": "present",
@@ -533,7 +533,7 @@
                     {
                         "DeviceIndex": 0,
                         "Groups": [
-                            "sg-076ec9ad23dab2b28"
+                            "sg-043976682ebbf8cd8"
                         ],
                         "SubnetId": "subnet-0e183c806a6e13582"
                     }
