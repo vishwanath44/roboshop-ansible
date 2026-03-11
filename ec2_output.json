@@ -82,7 +82,7 @@
                             "groups": [
                                 {
                                     "group_id": "sg-043976682ebbf8cd8",
-                                    "group_name": "daws-88s-allow-all"
+                                    "group_name": "vishwa-88s-allow-all"
                                 }
                             ],
                             "interface_type": "interface",
@@ -141,7 +141,7 @@
                     "security_groups": [
                         {
                             "group_id": "sg-043976682ebbf8cd8",
-                            "group_name": "daws-88s-allow-all"
+                            "group_name": "vishwa-88s-allow-all"
                         }
                     ],
                     "source_dest_check": true,
@@ -373,7 +373,7 @@
                             "groups": [
                                 {
                                     "group_id": "sg-043976682ebbf8cd8",
-                                    "group_name": "daws-88s-allow-all"
+                                    "group_name": "vishwa-88s-allow-all"
                                 }
                             ],
                             "interface_type": "interface",
@@ -432,7 +432,7 @@
                     "security_groups": [
                         {
                             "group_id": "sg-043976682ebbf8cd8",
-                            "group_name": "daws-88s-allow-all"
+                            "group_name": "vishwa-88s-allow-all"
                         }
                     ],
                     "source_dest_check": true,
