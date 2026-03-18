@@ -70,7 +70,7 @@
        login_host: "{{ MySQL_HOST }}"
        login_user: root
        login_password: Roboshop@1
-       target: "{{ item }}""
+       target: "{{ item }}"
     loop: 
     - /app/db/schema.sql
     - /app/db/app-user.sql
